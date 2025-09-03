@@ -60,12 +60,10 @@ $(document).ready(function() {
 			// Mode cerah (default)
             $("body").removeClass("dark");
             $(".theme-mode[value='light']").prop("checked", true);
-            console.log("Mode CERAH aktif");
         } else {
             // Mode malam
             $("body").addClass("dark");
             $(".theme-mode[value='dark']").prop("checked", true);
-            console.log("Mode GELAP aktif");
 		}
 	}
 
@@ -89,3 +87,4 @@ $(document).ready(function() {
 	})
 
 });
+
