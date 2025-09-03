@@ -1026,7 +1026,6 @@ body.dark .header.fixed{
 
 body.dark .footer .footer-content p,
 body.dark .footer .footer-content .couple-name h2,
-body.dark .rsvp-section .form .input-control,
 body.dark .people-section .people-item-inner h4,
 body.dark .people-section .filter-btn.active,
 body.dark .event-section .event-item-inner h3,
@@ -1078,4 +1077,5 @@ body.dark .header.fixed{
 	body.dark .header .nav{
 		background-color: #222222;
 	}
+
 }
